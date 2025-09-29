@@ -467,10 +467,11 @@
                     <include>**/*Test.java</include>
                     <include>**/*Tests.java</include>
                     <include>**/*TestNG.java</include>
+                    <include>**/*Anagram.java</include>
                     <include>FinalSolution.java</include>
-                    <include>FinalSolutionHashMap.java</include>
+                    
                     <include>FinalSolutionJson.java</include>
-                    <include>ErrorValidations.java</include>
+                    
                 </includes>
             </configuration>
             <dependencies>
