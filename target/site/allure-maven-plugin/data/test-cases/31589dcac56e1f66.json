@@ -1,0 +1,62 @@
+{
+  "uid" : "31589dcac56e1f66",
+  "name" : "LogoutApplication",
+  "fullName" : "akhiraacademy.Tests.FinalSolutionJson.LogoutApplication",
+  "historyId" : "52f158fca625550de5583029d93090e4",
+  "time" : {
+    "start" : 1759136532680,
+    "stop" : 1759136533986,
+    "duration" : 1306
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "akhiraacademy.Tests.FinalSolutionJson"
+  }, {
+    "name" : "testClass",
+    "value" : "akhiraacademy.Tests.FinalSolutionJson"
+  }, {
+    "name" : "testMethod",
+    "value" : "LogoutApplication"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "akhiraacademy.Tests.FinalSolutionJson"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JCE9V8H"
+  }, {
+    "name" : "thread",
+    "value" : "19348@DESKTOP-JCE9V8H.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31589dcac56e1f66.json",
+  "parameterValues" : [ ]
+}

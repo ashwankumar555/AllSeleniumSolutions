@@ -1,0 +1,62 @@
+{
+  "uid" : "600e098cc1ff679b",
+  "name" : "DemoTest",
+  "fullName" : "seleniuminterview.DemoTestNG.DemoTest",
+  "historyId" : "f244921317cd2420cdaddbfbfc2dd22e",
+  "time" : {
+    "start" : 1759136533990,
+    "stop" : 1759136533990,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "seleniuminterview.DemoTestNG"
+  }, {
+    "name" : "testClass",
+    "value" : "seleniuminterview.DemoTestNG"
+  }, {
+    "name" : "testMethod",
+    "value" : "DemoTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "seleniuminterview.DemoTestNG"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JCE9V8H"
+  }, {
+    "name" : "thread",
+    "value" : "19348@DESKTOP-JCE9V8H.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "600e098cc1ff679b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,10 @@
+akhiraacademy\pageObjects\LogoutPage.class
+akhiraacademy\resources\ExtestReportersNG.class
+akhiraacademy\pageObjects\CheckoutOverviewPage.class
+akhiraacademy\pageObjects\LandingPageNew.class
+akhiraacademy\pageObjects\ProductCatalogueNew.class
+AllureReports\allure\MySimpleCalculator.class
+akhiraacademy\pageObjects\CheckoutPage.class
+akhiraacademy\AbstractComponents\AbstractComponentNew.class
+akhiraacademy\pageObjects\CartPage.class
+akhiraacademy\pageObjects\CheckoutCompletePage.class

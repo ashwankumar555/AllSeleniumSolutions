@@ -1,0 +1,236 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Calculator",
+    "children" : [ {
+      "name" : "Simple addition",
+      "uid" : "24f7a34c3e690126",
+      "parentUid" : "100655544adc545e597f4d8a53dfac8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1759136462213,
+        "stop" : 1759136465477,
+        "duration" : 3264
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "100655544adc545e597f4d8a53dfac8b"
+  }, {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "akhiraacademy.ErrorValidations",
+        "children" : [ {
+          "name" : "LoginErrorValidation",
+          "uid" : "55538ed493036844",
+          "parentUid" : "f18e42d199248c4c5eaac3b3af1dfe69",
+          "status" : "broken",
+          "time" : {
+            "start" : 1759136475730,
+            "stop" : 1759136485814,
+            "duration" : 10084
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "ProductErrorValidation",
+          "uid" : "7bc4fffecac5703a",
+          "parentUid" : "f18e42d199248c4c5eaac3b3af1dfe69",
+          "status" : "broken",
+          "time" : {
+            "start" : 1759136488333,
+            "stop" : 1759136500642,
+            "duration" : 12309
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f18e42d199248c4c5eaac3b3af1dfe69"
+      }, {
+        "name" : "akhiraacademy.Tests.ErrorValidations",
+        "children" : [ {
+          "name" : "LoginErrorValidation",
+          "uid" : "7565d809f181cf",
+          "parentUid" : "75f8df640dd18499a64b5704182f36a6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136500656,
+            "stop" : 1759136503809,
+            "duration" : 3153
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "ProductErrorValidation",
+          "uid" : "27604f9151c58dba",
+          "parentUid" : "75f8df640dd18499a64b5704182f36a6",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136503812,
+            "stop" : 1759136507060,
+            "duration" : 3248
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "75f8df640dd18499a64b5704182f36a6"
+      }, {
+        "name" : "akhiraacademy.Tests.FinalSolution",
+        "children" : [ {
+          "name" : "submitOrder",
+          "uid" : "5a293ee6e958727c",
+          "parentUid" : "1b042429a695df4320654e660e63ba58",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136507069,
+            "stop" : 1759136512444,
+            "duration" : 5375
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "standard_user", "secret_sauce", "Sauce Labs Backpack", "Ashwin", "Kumar", "502032" ]
+        }, {
+          "name" : "submitOrder",
+          "uid" : "adc560736d0eeea5",
+          "parentUid" : "1b042429a695df4320654e660e63ba58",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136512450,
+            "stop" : 1759136518691,
+            "duration" : 6241
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "visual_user", "secret_sauce", "Sauce Labs Backpack", "Akhira", "Kumar", "502032" ]
+        }, {
+          "name" : "LogoutApplication",
+          "uid" : "7ee728ca8e5790fd",
+          "parentUid" : "1b042429a695df4320654e660e63ba58",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136518698,
+            "stop" : 1759136520018,
+            "duration" : 1320
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1b042429a695df4320654e660e63ba58"
+      }, {
+        "name" : "akhiraacademy.Tests.FinalSolutionHashMap",
+        "children" : [ {
+          "name" : "LogoutApplication",
+          "uid" : "752a6ae9328e872b",
+          "parentUid" : "e6222e84321c6e830a024769710712e6",
+          "status" : "broken",
+          "time" : {
+            "start" : 1759136520018,
+            "stop" : 1759136520018,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "submitOrder",
+          "uid" : "314726d45fa4770f",
+          "parentUid" : "e6222e84321c6e830a024769710712e6",
+          "status" : "broken",
+          "time" : {
+            "start" : 1759136520037,
+            "stop" : 1759136520037,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e6222e84321c6e830a024769710712e6"
+      }, {
+        "name" : "akhiraacademy.Tests.FinalSolutionJson",
+        "children" : [ {
+          "name" : "submitOrder",
+          "uid" : "faf30c7ca425f3f8",
+          "parentUid" : "94484be6e63b700701c4a0b14100aa00",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136520846,
+            "stop" : 1759136527119,
+            "duration" : 6273
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{zipcode=502032, firstname=Ashwin, uname=standard_user, pwd=secret_sauce, productName=Sauce Labs Backpack, lastname=Kumar}" ]
+        }, {
+          "name" : "submitOrder",
+          "uid" : "ae8332b5c9cc1a87",
+          "parentUid" : "94484be6e63b700701c4a0b14100aa00",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136527122,
+            "stop" : 1759136532676,
+            "duration" : 5554
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{zipcode=502032, firstname=Akhira, uname=visual_user, pwd=secret_sauce, productName=Sauce Labs Backpack, lastname=Kumar}" ]
+        }, {
+          "name" : "LogoutApplication",
+          "uid" : "31589dcac56e1f66",
+          "parentUid" : "94484be6e63b700701c4a0b14100aa00",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136532680,
+            "stop" : 1759136533986,
+            "duration" : 1306
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "94484be6e63b700701c4a0b14100aa00"
+      }, {
+        "name" : "seleniuminterview.DemoTestNG",
+        "children" : [ {
+          "name" : "DemoTest",
+          "uid" : "600e098cc1ff679b",
+          "parentUid" : "931e4d0c1192ffffc852835b47890a55",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136533990,
+            "stop" : 1759136533990,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "DemoTest2",
+          "uid" : "8a54bfd7242000db",
+          "parentUid" : "931e4d0c1192ffffc852835b47890a55",
+          "status" : "passed",
+          "time" : {
+            "start" : 1759136533996,
+            "stop" : 1759136533997,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "931e4d0c1192ffffc852835b47890a55"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}

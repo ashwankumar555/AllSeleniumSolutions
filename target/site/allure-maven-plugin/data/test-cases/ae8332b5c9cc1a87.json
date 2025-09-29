@@ -1,0 +1,65 @@
+{
+  "uid" : "ae8332b5c9cc1a87",
+  "name" : "submitOrder",
+  "fullName" : "akhiraacademy.Tests.FinalSolutionJson.submitOrder",
+  "historyId" : "4db180e69f764153c1ec42ad7a270157",
+  "time" : {
+    "start" : 1759136527122,
+    "stop" : 1759136532676,
+    "duration" : 5554
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "akhiraacademy.Tests.FinalSolutionJson"
+  }, {
+    "name" : "testClass",
+    "value" : "akhiraacademy.Tests.FinalSolutionJson"
+  }, {
+    "name" : "testMethod",
+    "value" : "submitOrder"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "akhiraacademy.Tests.FinalSolutionJson"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JCE9V8H"
+  }, {
+    "name" : "thread",
+    "value" : "19348@DESKTOP-JCE9V8H.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "{zipcode=502032, firstname=Akhira, uname=visual_user, pwd=secret_sauce, productName=Sauce Labs Backpack, lastname=Kumar}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae8332b5c9cc1a87.json",
+  "parameterValues" : [ "{zipcode=502032, firstname=Akhira, uname=visual_user, pwd=secret_sauce, productName=Sauce Labs Backpack, lastname=Kumar}" ]
+}

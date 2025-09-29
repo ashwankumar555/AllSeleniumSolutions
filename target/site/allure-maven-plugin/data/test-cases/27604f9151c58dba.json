@@ -1,0 +1,62 @@
+{
+  "uid" : "27604f9151c58dba",
+  "name" : "ProductErrorValidation",
+  "fullName" : "akhiraacademy.Tests.ErrorValidations.ProductErrorValidation",
+  "historyId" : "d47b67ead69acafc57f252cd62e123e1",
+  "time" : {
+    "start" : 1759136503812,
+    "stop" : 1759136507060,
+    "duration" : 3248
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "akhiraacademy.Tests.ErrorValidations"
+  }, {
+    "name" : "testClass",
+    "value" : "akhiraacademy.Tests.ErrorValidations"
+  }, {
+    "name" : "testMethod",
+    "value" : "ProductErrorValidation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "akhiraacademy.Tests.ErrorValidations"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JCE9V8H"
+  }, {
+    "name" : "thread",
+    "value" : "19348@DESKTOP-JCE9V8H.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27604f9151c58dba.json",
+  "parameterValues" : [ ]
+}
