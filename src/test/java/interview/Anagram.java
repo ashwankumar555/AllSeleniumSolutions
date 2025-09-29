@@ -3,9 +3,19 @@ package interview;
 import java.util.Arrays;
 import java.util.List;
 
+import org.testng.annotations.Test;
+
+import io.qameta.allure.Epic;
+import io.qameta.allure.Story;
+
+@Epic(value = "JIRA-1234")
+@Story(value = "Validation of anagram check")
+@Test
 public class Anagram {
 
-	public static void main(String[] args) {
+	@Test
+    public void checkAnagram() {
+	
 		String str1 = "silent";
 		String str2 = "listen";
 		
