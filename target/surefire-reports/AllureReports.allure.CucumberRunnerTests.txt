@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: AllureReports.allure.CucumberRunnerTests
 -------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 6.455 s -- in AllureReports.allure.CucumberRunnerTests
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 8.574 s -- in AllureReports.allure.CucumberRunnerTests

@@ -14,11 +14,11 @@ public class JiraAPIToken {
     public static void main(String[] args) {
 
         // Jira base URL
-        RestAssured.baseURI = "https://ashwinkumarganji.atlassian.net/";
+        //RestAssured.baseURI = "https://ashwinkumarganji.atlassian.net/";
 
         // Replace with your email + API token
-        String email = "ashwinkumarganji@gmail.com";
-        String apiToken = "ATATT3xFfGF0CzcRWsTpO06HqYf33A5abQseSYb1KBfWAXOM9ujP0cdwp31i2rlX6piCbjlC9tYA1PrdS21DS9u-b7VBL2bMPkxHaCwfhUJIYez4oUp05m1ZWkkaZkB9ed-RY82G1hanWd3eQdZkndNGIRWrkZL-gX1FTQiuQGOy5mxVH35sgsA=46305578";  // 🔑 generate from https://id.atlassian.com/manage-profile/security/api-tokens
+        //String email = "ashwinkumarganji@gmail.com";
+        //String apiToken = "ATATT3xFfGF0CzcRWsTpO06HqYf33A5abQseSYb1KBfWAXOM9ujP0cdwp31i2rlX6piCbjlC9tYA1PrdS21DS9u-b7VBL2bMPkxHaCwfhUJIYez4oUp05m1ZWkkaZkB9ed-RY82G1hanWd3eQdZkndNGIRWrkZL-gX1FTQiuQGOy5mxVH35sgsA=46305578";  // 🔑 generate from https://id.atlassian.com/manage-profile/security/api-tokens
 
         // Encode to Base64 (email:apiToken)
         String auth = Base64.getEncoder()

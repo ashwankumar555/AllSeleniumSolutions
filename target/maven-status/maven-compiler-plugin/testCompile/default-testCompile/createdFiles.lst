@@ -219,7 +219,6 @@ cucumber\TestNGTestRunner.class
 interview\InverseHalfPyra.class
 restAssured\dataDriven.class
 coreJava\GenericClass.class
-restAssured\JiraAPIToken.class
 interview\MoveAllZerosToEnd.class
 seleniuminterview\RobotFileUploadExample.class
 coreJava\ArrayAssignment.class
